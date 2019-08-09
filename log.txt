@@ -1,0 +1,8 @@
+Screen 1 :
+	Seat no: 1   User name: q
+	Seat no: 2   User name: q
+	Seat no: 3   User name: q
+	Seat no: 4   User name: q
+	Seat no: 5   User name: q
+Screen 2 :
+Screen 3 :
